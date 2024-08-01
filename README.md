@@ -1,16 +1,23 @@
-## Hi there 👋
+## 👋 Hi there! I'm Andy (Aj)
 
-<!--
-**agomez-cloud/agomez-cloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my profile! I am a dedicated DevSecOps Engineer with 5 years of experience in planning, designing, implementing, mentoring, and maintaining system applications across various environments, including AWS, VMware, High-Performance Computing (HPC), and On-Premises.
 
-Here are some ideas to get you started:
+### 🔧 Skills
+- **Programming & Scripting**: Python, Bash, Groovy
+- **Cloud Platforms**: AWS, VMware
+- **Infrastructure as Code**: Terraform
+- **Secrets Management**: Hashicorp Vault
+- **Configuration Management**: Ansible
+- **CI/CD**: GitLab CI, GitHub Actions, Jenkins
+- **Containerization & Orchestration**: Docker, Kubernetes, OpenShift
+- **Operating Systems**: Linux
+- **Version Control & Collaboration**: Git, Jira
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌟 Summary
+With a solid foundation in DevOps best practices, I specialize in automating workflows, managing infrastructure, and enhancing system performance. My expertise spans across diverse environments, leveraging a comprehensive toolset to ensure efficient and secure deployment processes. 
+
+### 🎸 Hobbies and Interests
+When I'm not immersed in technology, I enjoy playing guitar and soccer. These hobbies keep me balanced and fuel my creativity and teamwork skills.
+
+### 📫 How to reach me
+- **Email**: agomez.cloud@gmail.com
